@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">SkillYourMind</string>
+    <string name="start">Start</string>
+    <string name="settings">Settings</string>
+    <string name="back">Back</string>
+    <string name="lesson2">Task 2</string>
+    <string name="lesson1">Task 1</string>
+    <string name="lesson3">Task 3</string>
+    <string name="LessonLevel">Task / Level </string>
+    <string name="Lesson1Level1">Task 1/ Level 1</string>
+    <string name="Lesson1Level2">Task 1/ Level 2</string>
+    <string name="Lesson1Level3">Task 1/ Level 3</string>
+    <string name="Lesson1Level4">Task 1/ Level 4</string>
+    <string name="Lesson1Level5">Task 1/ Level 5</string>
+    <string name="Lesson2Level1">Task 2/ Level 1</string>
+    <string name="Lesson2Level2">Task 2/ Level 2</string>
+    <string name="Lesson2Level3">Task 2/ Level 3</string>
+    <string name="Lesson2Level4">Task 2/ Level 4</string>
+    <string name="Lesson2Level5">Task 2/ Level 5</string>
+    <string name="Lesson3Level1">Task 3/ Level 1</string>
+    <string name="Lesson3Level2">Task 3/ Level 2</string>
+    <string name="Lesson3Level3">Task 3/ Level 3</string>
+    <string name="Lesson3Level4">Task 3/ Level 4</string>
+    <string name="Lesson3Level5">Task 3/ Level 5</string>
+    <string name="Lesson4Level1">Task 4/ Level 1</string>
+    <string name="Lesson4Level2">Task 4/ Level 2</string>
+    <string name="Lesson4Level3">Task 4/ Level 3</string>
+    <string name="Lesson4Level4">Task 4/ Level 4</string>
+    <string name="Lesson4Level5">Task 4/ Level 5</string>
+    <string name="tv_lesson1_level1"></string>
+    <string name="next">next</string>
+    <string name="try_again">\n Try again!</string>
+    <string name="nice_try">Nice try! But the right answer is:   </string>
+    <string name="play_again">play again</string>
+    <string name="enter_numbers">enter numbers</string>
+
+
+    <string name="tv_congratulations"> Congratulations! \n You can go to \n the next level!</string>
+    <string name="tv_congratulations_finish"> Congratulations!\n Your intelligences are limitless!</string>
+    <string name="tv_nice_try"> "Nice try! But it is wrong answer! Try again!</string>
+    <string name="buttonnext">next</string>
+    <string name="lesson2prewiewtext">Remember the letters on the screen and count their number in the following proverbs</string>
+    <string name="lesson3prewiewtext">Remember the words on the screen and recreate their order of appearance at the end of the round</string>
+    <string name="lesson3task">Select the words in the same order as they appeared on the screen</string>
+    <string name="chose_strings">Select the words in the same order as they appeared on the screen</string>
+    <string name="enter_your_numbers">Enter the number you received</string>
+    <string name="lesson4">Task 4</string>
+    <string name="two_words">1.fire 2.element</string>
+    <string name="matrix_maind">Memory matrix</string>
+    <string name="remember_picture">Remember the picture, recreate it</string>
+</resources>

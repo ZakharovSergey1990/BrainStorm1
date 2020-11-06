@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="370dp"
+    android:layout_height="wrap_content"
+    android:id="@+id/dialogfon"
+    android:orientation="vertical"
+    android:background="@drawable/prewiew_background"
+    android:layout_gravity="center"
+    android:layout_marginRight="5dp"
+    android:layout_marginLeft="5dp"
+
+
+
+
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:gravity="center">
+        <TextView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:id="@+id/buttonclose"
+            android:text="X"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:textColor="@color/White"
+            android:background="@drawable/button_stroke_black90_press_white"
+            android:layout_gravity="end"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="80dp"
+            android:id="@+id/tvfinish"
+            android:text="@string/enter_your_numbers"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:fontFamily="casual"
+            android:textSize="30sp"
+            android:textColor="@color/White"
+            android:layout_gravity="center"
+            android:layout_marginBottom="20dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <TextView
+                android:fontFamily="casual"
+                android:id="@+id/tvletter1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="X="
+                android:textColor="@color/White"
+                android:textSize="40sp"
+
+                />
+
+            <EditText
+                android:id="@+id/editText1"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:textColor="@color/White"
+                android:textSize="40sp"/>
+            <TextView
+                android:fontFamily="casual"
+                android:id="@+id/tvletter2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="X="
+                android:textColor="@color/White"
+                android:textSize="40sp"
+
+                />
+
+            <EditText
+                android:id="@+id/editText2"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:textColor="@color/White"
+                android:textSize="40sp"/>
+            <TextView
+                android:fontFamily="casual"
+                android:id="@+id/tvletter3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="X="
+                android:textColor="@color/White"
+                android:textSize="40sp"
+
+                />
+
+            <EditText
+                android:id="@+id/editText3"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:textColor="@color/White"
+                android:textSize="40sp"/>
+        </LinearLayout>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:id="@+id/buttonnext"
+            android:background="@drawable/button_stroke_black90_press_white"
+            android:text="@string/buttonnext"
+            android:textAllCaps="false"
+            android:textColor="@color/White"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:textSize="16sp"
+            android:layout_marginTop="5dp"
+            />
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</LinearLayout>

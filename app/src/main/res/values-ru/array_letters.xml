@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">а</string>
+    <string name="b">б</string>
+    <string name="c">в</string>
+    <string name="d">г</string>
+    <string name="e">д</string>
+    <string name="f">е</string>
+    <string name="g">ж</string>
+    <string name="h">з</string>
+    <string name="i">и</string>
+    <string name="j">к</string>
+    <string name="k">л</string>
+    <string name="l">м</string>
+    <string name="m">н</string>
+    <string name="n">о</string>
+    <string name="o">п</string>
+    <string name="p">р</string>
+    <string name="q">с</string>
+    <string name="r">т</string>
+    <string name="s">у</string>
+    <string name="t">ф</string>
+    <string name="u">ц</string>
+    <string name="v">х</string>
+    <string name="w">я</string>
+    <string name="x">ю</string>
+    <string name="y">э</string>
+    <string name="z">ш</string>
+
+</resources>

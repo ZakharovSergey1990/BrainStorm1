@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">SkillYourMind</string>
+    <string name="start">Начать</string>
+    <string name="settings">Настройки</string>
+    <string name="back">Назад</string>
+    <string name="lesson2">Задание 2</string>
+    <string name="lesson1">Задание 1</string>
+    <string name="lesson3">Задание 3</string>
+
+    <string name="LessonLevel">Задание / Уровень </string>
+    <string name="Lesson1Level1">Задание 1/ Уровень 1</string>
+    <string name="Lesson1Level2">Задание 1/ Уровень 2</string>
+    <string name="Lesson1Level3">Задание 1/ Уровень 3</string>
+    <string name="Lesson1Level4">Задание 1/ Уровень 4</string>
+    <string name="Lesson1Level5">Задание 1/ Уровень 5</string>
+    <string name="Lesson2Level1">Задание 2/ Уровень 1</string>
+    <string name="Lesson2Level2">Задание 2/ Уровень 2</string>
+    <string name="Lesson2Level3">Задание 2/ Уровень 3</string>
+    <string name="Lesson2Level4">Задание 2/ Уровень 4</string>
+    <string name="Lesson2Level5">Задание 2/ Уровень 5</string>
+    <string name="Lesson3Level1">Задание 3/ Уровень 1</string>
+    <string name="Lesson3Level2">Задание 3/ Уровень 2</string>
+    <string name="Lesson3Level3">Задание 3/ Уровень 3</string>
+    <string name="Lesson3Level4">Задание 3/ Уровень 4</string>
+    <string name="Lesson3Level5">Задание 3/ Уровень 5</string>
+    <string name="Lesson4Level1">Задание 4/ Уровень 1</string>
+    <string name="Lesson4Level2">Задание 4/ Уровень 2</string>
+    <string name="Lesson4Level3">Задание 4/ Уровень 3</string>
+    <string name="Lesson4Level4">Задание 4/ Уровень 4</string>
+    <string name="Lesson4Level5">Задание 4/ Уровень 5</string>
+    <string name="tv_lesson1_level1"></string>
+    <string name="next">продолжить</string>
+    <string name="try_again">\n Попробуй еще раз!</string>
+    <string name="nice_try">Хорошая попытка! Но правильный ответ: </string>
+    <string name="play_again">играть еще раз</string>
+    <string name="enter_numbers">Введите число</string>
+
+
+    <string name="tv_congratulations"> Поздравляем! \n можете перейти на \n следующий уровень!</string>
+    <string name="tv_congratulations_finish"> Поздравляем! \n Ваш интеллект не знает границ!</string>
+    <string name="tv_nice_try"> Хорошая попытка! Но это неправильный ответ! Попробуй еще раз!</string>
+    <string name="buttonnext">продолжить</string>
+    <string name="lesson2prewiewtext">Запомни буквы на экране и посчитай их количество в следующих пословицах</string>
+    <string name="lesson3prewiewtext">Запомни слова на экране и восоздай их порядок их появления в конце раунда</string>
+    <string name="lesson3task">Выберете слова в том же порядке, в котором они появлялись на экране</string>
+    <string name="chose_strings">Выберите слова в том же порядке, в котором они появлялись на экране</string>
+    <string name="enter_your_numbers">Введите полученное число</string>
+    <string name="lesson4">Задание 4</string>
+    <string name="two_words">1.змея 2.вагон</string>
+    <string name="matrix_maind">Матрица памяти</string>
+    <string name="remember_picture">Запомни картинку, воссоздай ее</string>
+</resources>
